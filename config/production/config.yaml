@@ -2,6 +2,11 @@
 
 baseURL: https://bordeaux-test.netlify.app
 
+## OSUNY
+osuny:
+  website:
+    id: 80f094f5-9c3f-49fa-a74d-d98bdd162c24
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
